@@ -106,7 +106,12 @@ Now we can create another OU as we did before and name it "_CLIENTS". Then drag 
 <h2>Active Directory is Deployed and Ready for Use! </h2>
 
 <b>We've successfully installed AD on the domain controller, created a domain admin, and joined the client VM to the domain. Next, we'll create users in Powershell by running a script, and then manage the accounts and group policy!  </b>
+
+Next: [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/HeidiBolivar/AD_Creating_Users_Group_Policies_And_Managing_Accounts)
 <br />
+
+---
+"Thank you 😊 for taking the time to explore 🔎 this project, it's great to see someone so engaged and curious 💡. Connect with me on LinkedIn 🤝 and let's see what we can build together ✨."
 <br />
 </p>
 
